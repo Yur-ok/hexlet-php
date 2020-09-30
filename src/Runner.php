@@ -1,6 +1,6 @@
 <?php
 
-namespace My\Project\Runner;
+namespace Hexlet\Php\Runner;
 
 use Tightenco\Support\Collection;
 

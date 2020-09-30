@@ -1,5 +1,10 @@
 {
     "name": "yurok/hexlet-php",
+    "autoload": {
+	    "files": [
+		    "src/Runner.php"
+	    ]
+    },
     "description": "Setting up environment.",
     "authors": [
         {
