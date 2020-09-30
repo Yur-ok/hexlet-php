@@ -7,5 +7,7 @@
             "email": "Materik-r@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.0"
+    }
 }
