@@ -1,0 +1,11 @@
+{
+    "name": "yurok/hexlet-php",
+    "description": "Setting up environment.",
+    "authors": [
+        {
+            "name": "Yuriy Bachevskiy",
+            "email": "Materik-r@yandex.ru"
+        }
+    ],
+    "require": {}
+}
